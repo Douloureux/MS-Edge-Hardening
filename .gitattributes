@@ -1,0 +1,2 @@
+*.reg linguist-language="Windows Registry Entries" linguist-detectable
+*.json linguist-language="JSON" linguist-detectable

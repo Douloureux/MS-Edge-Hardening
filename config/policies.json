@@ -1,0 +1,350 @@
+{
+   "edgePolicies": {
+      "AddressBarMicrosoftSearchInBingProviderEnabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "AdsSettingForIntrusiveAdsSites": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": 2
+      },
+      "AllowGamesMenu": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "ApplicationGuardFavoritesSyncEnabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "ApplicationGuardTrafficIdentificationEnabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "AudioSandboxEnabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": true
+      },
+      "AutofillAddressEnabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "AutofillCreditCardEnabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "AutomaticHttpsDefault": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": 2
+      },
+      "AutoplayAllowed": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "BingAdsSuppression": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": true
+      },
+      "BlockThirdPartyCookies": {
+         "level": "recommended",
+         "scope": "machine",
+         "source": "platform",
+         "value": true
+      },
+      "BrowserSignin": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": 0
+      },
+      "ClearCachedImagesAndFilesOnExit": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": true
+      },
+      "ConfigureShare": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": 1
+      },
+      "DefaultGeolocationSetting": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": 2
+      },
+      "DefaultSensorsSetting": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": 2
+      },
+      "DiagnosticData": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": 0
+      },
+      "Disable3DAPIs": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": true
+      },
+      "EdgeCollectionsEnabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "EnableMediaRouter": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "FamilySafetySettingsEnabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "FavoritesBarEnabled": {
+         "level": "recommended",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "FeatureFlagOverridesControl": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": 1
+      },
+      "ForceSync": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "HideFirstRunExperience": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": true
+      },
+      "ImportAutofillFormData": {
+         "level": "recommended",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "ImportBrowserSettings": {
+         "level": "recommended",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "ImportCookies": {
+         "level": "recommended",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "ImportExtensions": {
+         "level": "recommended",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "ImportFavorites": {
+         "level": "recommended",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "ImportHistory": {
+         "level": "recommended",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "ImportOpenTabs": {
+         "level": "recommended",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "ImportPaymentInfo": {
+         "level": "recommended",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "ImportSavedPasswords": {
+         "level": "recommended",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "ImportSearchEngine": {
+         "level": "recommended",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "ImportShortcuts": {
+         "level": "recommended",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "ImportStartupPageSettings": {
+         "level": "recommended",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "InPrivateModeAvailability": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": 0
+      },
+      "InternetExplorerIntegrationLevel": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": 1
+      },
+      "MediaRouterCastAllowAllIPs": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "NewTabPageContentEnabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "NewTabPageHideDefaultTopSites": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": true
+      },
+      "NewTabPageQuickLinksEnabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "PasswordGeneratorEnabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "PasswordRevealEnabled": {
+         "level": "recommended",
+         "scope": "machine",
+         "source": "platform",
+         "value": true
+      },
+      "PaymentMethodQueryEnabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "PersonalizationReportingEnabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "PromotionalTabsEnabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "PromptForDownloadLocation": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": true
+      },
+      "QuickViewOfficeFilesEnabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": true
+      },
+      "SavingBrowserHistoryDisabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": true
+      },
+      "ShowCastIconInToolbar": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "ShowRecommendationsEnabled": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "SitePerProcess": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": true
+      },
+      "StartupBoostEnabled": {
+         "level": "recommended",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      },
+      "UserFeedbackAllowed": {
+         "level": "mandatory",
+         "scope": "machine",
+         "source": "platform",
+         "value": false
+      }
+   },
+   "extensionPolicies": {
+   },
+   "status": {
+   }
+}
